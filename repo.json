@@ -1,0 +1,8 @@
+{
+  "name": "My Repo",
+  "description": "Test Repo",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/amarsingh820/MyCloudRepo/main/plugins.json"
+  ]
+}
