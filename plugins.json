@@ -1,20 +1,46 @@
 [
   {
-    "name": "DummyProvider",
-    "description": "Test Extension",
+    "name": "MovieBoxProvider",
+    "description": "MovieBox",
     "version": 1,
     "apiVersion": 1,
     "language": "en",
-    "authors": [
-      "Amar"
-    ],
+    "authors": ["Amar"],
     "status": 1,
-    "url": "https://raw.githubusercontent.com/amarsingh820/MyCloudRepo/main/DummyProvider.cs3",
+    "url": "https://raw.githubusercontent.com/amarsingh820/MyCloudRepo/main/MovieBoxProvider.cs3",
     "iconUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-    "fileSize": 5,
-    "internalName": "DummyProvider",
-    "tvTypes": [
-      "Movie"
-    ]
+    "fileSize": 100,
+    "internalName": "MovieBoxProvider",
+    "tvTypes": ["Movie","TvSeries"]
+  },
+
+  {
+    "name": "PikashowProvider",
+    "description": "Pikashow",
+    "version": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": ["Amar"],
+    "status": 1,
+    "url": "https://raw.githubusercontent.com/amarsingh820/MyCloudRepo/main/PikashowProvider.cs3",
+    "iconUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+    "fileSize": 100,
+    "internalName": "PikashowProvider",
+    "tvTypes": ["Movie","TvSeries"]
+  },
+
+  {
+    "name": "CricifyProvider",
+    "description": "Cricify",
+    "version": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": ["Amar"],
+    "status": 1,
+    "url": "https://raw.githubusercontent.com/amarsingh820/MyCloudRepo/main/CricifyProvider.cs3",
+    "iconUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+    "fileSize": 100,
+    "internalName": "CricifyProvider",
+    "tvTypes": ["Live"]
   }
 ]
